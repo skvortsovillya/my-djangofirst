@@ -28,6 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = ['127.0.0.1', 'skvortsovillya.pythonanywhere.com']
 
 
+#deploytest
+
 # Application definition
 
 INSTALLED_APPS = [
